@@ -1,6 +1,9 @@
 #include "stdio.h"
 #include "stdlib.h"
 
+// O código não está submetendo //
+// link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1028 //
+
 int MDC(int a,int b){
     int div=1,i,menor;
     
